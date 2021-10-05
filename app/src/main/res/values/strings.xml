@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeuPrimeiroApp</string>
+    <string name="meuNome">Ronney Nigro</string>
+    <string name="title_app">Exemplo de Fragments</string>
+    <string name="copiar">Copiar</string>
+    <string name="fragment1">Fragment 1</string>
+    <string name="fragment2">Fragment 2</string>
+</resources>
